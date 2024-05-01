@@ -5,4 +5,4 @@ the difficulty level, and designate the time allotted per question.
 In this project I have used HTML, CSS, JAVASCRIPT, utilized live data from APIs
 
 Click here for
-[Live Demo](https://surajkumar223.github.io/Quiz-app/)
+[Live Demo](https://surajkumar223.github.io/Quiz-App/)
